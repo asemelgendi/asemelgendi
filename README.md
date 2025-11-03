@@ -1,111 +1,113 @@
-<h1 align="center">Hi 👋, I'm Asem Elgendi</h1>
-<h3 align="center">Flutter Developer | Mobile Application Engineer</h3>
+<p align="center">
+  <a href="https://github.com/asemelgendi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00C8FF&center=true&vCenter=true&repeat=true&width=500&lines=Hi%2C+I'm+Asem+Elgendi" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asemelgendi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <b>Flutter Developer | Mobile Application Engineer</b><br>
+  🚀 Building high-quality, scalable, and beautiful mobile apps with Flutter.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/asemelgendi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/asemelgendi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:asemelgendi11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:asemelgendi11@gmail.com"><img src="https://img.shields.io/badge/Email-asemelgendi11%40gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/asemelgendi"><img src="https://img.shields.io/badge/LinkedIn-Asem%20Elgendi-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/asemelgendi"><img src="https://img.shields.io/badge/GitHub-asemelgendi-black?style=flat-square&logo=github"></a>
+  <a href="https://flutterfix.com"><img src="https://img.shields.io/badge/Portfolio-FlutterFix.com-00c853?style=flat-square&logo=google-chrome"></a>
 </p>
 
-- 🌍 Based in Egypt  
-- 📫 Reach me at **asemelgendi11@gmail.com** or +20 1014563508  
-- 🔭 Currently working on Flutter projects with Clean Architecture and Bloc  
-- 🌱 Learning advanced state management and performance optimization  
-- 👯 Open to collaborating on mobile apps or open-source Flutter contributions  
-- ⚡ Fun fact: I optimized apps by 30%—efficiency is my superpower!  
+---
 
-### About Me
-Passionate Mobile Developer with 2+ years of experience in designing, developing, and deploying scalable Flutter applications for Android and iOS. Expert in Clean Architecture, SOLID principles, and state management (Bloc, Provider, GetX). Adept at API integration, performance optimization, and CI/CD deployment pipelines. Proven ability to collaborate across teams and deliver high-quality, user-centric mobile solutions.
+### 💫 About Me
+I'm a **passionate Flutter Developer** with over 2 years of experience designing and deploying scalable apps for **Android and iOS**.  
+I focus on **Clean Architecture**, **SOLID principles**, and **state management** using `Bloc`, `Provider`, and `GetX`.
 
-#### Key Achievements
-- Published 2+ production-level apps on Google Play and App Store.
-- Enhanced app performance by up to 30% through optimization and clean architecture.
-- Successfully integrated complex APIs, Firebase, and payment systems (PayPal, TAB).
+- 🔭 Currently building: **Multi-Service App (Falmadmon)**
+- 🌱 Learning more about **DevOps & AI integration in Flutter**
+- 💬 Ask me about **Flutter, Architecture, APIs, Firebase, CI/CD**
+- ⚡ Fun fact: I love turning creative ideas into real apps that make life easier.
 
-### Skills
-#### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+---
 
-#### State Management
-![Bloc](https://img.shields.io/badge/Bloc-000000?style=for-the-badge&logo=bloc&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-000000?style=for-the-badge&logo=provider&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-000000?style=for-the-badge&logo=getx&logoColor=white)
+### 🧠 Technical Skills
+| Category | Technologies |
+|-----------|--------------|
+| **Mobile Dev** | Flutter, Dart, Android, iOS |
+| **State Management** | Bloc, Provider, GetX |
+| **Databases** | Firebase, Firestore, SQLite, Hive |
+| **Networking** | RESTful APIs, Dio, WebSocket, JSON Serializable |
+| **Architecture** | Clean Architecture, SOLID, MVVM, MVC |
+| **Other Tools** | Firebase Auth, FCM, Google Maps, Deep Links, Localization, CI/CD, GitHub Actions |
 
-#### Databases & Networking
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-000000?style=for-the-badge&logo=hive&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=rest&logoColor=white)
-![Dio](https://img.shields.io/badge/Dio-000000?style=for-the-badge&logo=dio&logoColor=white)
+---
 
-#### Architecture & Tools
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=architecture&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=solid&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-000000?style=for-the-badge&logo=mvvm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=circleci&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🚀 Key Projects
 
-Other: Google Maps, OAuth, Deep Links, Localization, Animations, Caching, Pagination, Security, GitHub Actions, FVM, Reusable Code, Problem Solving.
+#### 🧩 [Flmadmon - Multi-Service App](https://github.com/asemelgendi/flmadmon)
+> A multi-service app offering legal, real estate, and AI-powered solutions.  
+> 📱 [Google Play](https://play.google.com/store/apps/details?id=com.codanyon.FLMADMON) | [App Store](https://apps.apple.com/eg/app/flmadmon/id6474122797)
 
-### Experience
-- **Flutter Developer | I.T Square - Software, Egypt** (Jan 2025 - Oct 2025)  
-  Built and maintained cross-platform apps using Bloc and Provider. Integrated RESTful APIs and developed responsive UI. Managed CI/CD pipelines, reducing release time by 30%.
+#### 💰 [Couponz Souq - Discounts & Deals](https://github.com/asemelgendi/coupons-souq)
+> A global coupons app helping users save money with verified deals.  
+> 📱 [Google Play](https://play.google.com/store/apps/details?id=cheapest.code) | [App Store](https://apps.apple.com/eg/app/%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D9%83%D9%88%D8%A8%D9%88%D9%86%D8%A7%D8%AA-couponz-souq/id1586339311)
 
-- **Flutter Developer | Websight Company, Kuwait** (Sep 2023 - Oct 2024)  
-  Developed high-performance Flutter apps. Collaborated with designers and backend engineers. Improved build efficiency and reduced crash rates by 25%.
+#### 💱 [MCEKW - Currency Exchange](https://github.com/asemelgendi/MCEKW)
+> Convert Kuwaiti Dinar to multiple currencies with live exchange rates and TAB payment integration.
 
-- **Freelance Flutter Developer** (Apr 2023 - Sep 2023)  
-  Delivered end-to-end solutions. Implemented clean code and modular architecture.
+#### 🩺 [Al-Tabib - Health Care App](https://github.com/asemelgendi/al_tabib)
+> Book and follow up on virtual medical appointments with your preferred doctors.
 
-### Key Projects
-- **[Flmadmon - Multi-Service App](your-github-link)**  
-  Multi-service app for legal, real estate, vehicles, and AI-powered services (1K+ users).  
-  [Google Play](link) | [App Store](link)
+---
 
-- **[Couponz Souq - Discount & Coupons App](your-github-link)**  
-  Verified discounts from top stores (5K+ users).  
-  [Google Play](link) | [App Store](link)
 
-- **[MCEKW - Currency Exchange App](https://github.com/asemelgendi/mcekw)**  
-  Live rates, charts, digital wallets, TAB integration.
+### 🏅 Certifications
 
-- **[Al-Tabib - Health Care](https://github.com/asemelgendi/al-tabib)**  
-  Book virtual clinics and follow-ups.
+- [Azure AI Fundamentals](https://www.credly.com/badges/f1fc64a0-d6e3-46e8-ae42-2142bfb93c9c/public_url) by Microsoft  
+- [Complete Flutter & Dart Development Course](https://www.udemy.com/certificate/UC-0c44e82c-cbe5-470d-81db-813a6e281a19/) by Udemy  
+- [Flutter Advanced (Bloc & MVVM Pattern)](https://www.udemy.com/certificate/UC-f901c661-608d-4bf7-b6a7-573044c993c6/) by Udemy  
+- [Flutter App Creation: Google Maps Integration](https://www.udemy.com/certificate/UC-f1dbdf55-67cc-4be8-814f-e84917d54aa4/) by Udemy  
+- [Deep Dive into Clean Architecture in Flutter](https://www.udemy.com/certificate/UC-c711275f-590d-41da-b3f3-d33101a8a364/) by Udemy  
+- [Flutter Payment Integration: Stripe, PayPal & More](https://www.udemy.com/certificate/UC-ff05dfe0-78d6-44a1-b8da-7a36e87182af/) by Udemy  
+- [Mastering Programming: A Comprehensive Course](https://www.udemy.com/certificate/UC-57bf4825-791b-4c66-82e8-7b4aba454e85/) by Udemy  
 
-(Note: Add actual GitHub links to your repos. If private, make them public or add demos/screenshots.)
+---
 
-### Education
-Bachelor of Mathematics and Computer Science  
-Menoufia University | Sep 2020 - Sep 2024  
-Graduated with an A in the project.
 
-### Certifications
-- Complete Flutter & Dart Development Course
-- Flutter Advanced Course: Bloc and MVVM Pattern
-- Flutter App Creation: Google Maps Integration Guide
-- Deep Dive into Clean Architecture in Flutter
-- Mastering Programming: A Comprehensive Course
-- Flutter Payment Integration: Stripe, PayPal & More!
 
-### Languages
-- Arabic (Native)
-- English (Fluent)
 
-### GitHub Stats
+### 🎓 Education
+**Bachelor of Mathematics and Computer Science** — Menoufia University (2020 - 2024)  
+Graduated with *A grade* in the graduation project.
+
+---
+
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asemelgendi&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asemelgendi&theme=dracula&hide_border=true" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asemelgendi&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asemelgendi&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asemelgendi&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-<p align="center">Thanks for visiting! Let's connect and build something amazing. 🚀</p>
+---
+
+### 🧩 Featured Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,github,git,figma,vscode,postman,linux" />
+</p>
+
+---
+
+### 📬 Connect with me
+<p align="center">
+  <a href="mailto:asemelgendi11@gmail.com"><img src="https://img.shields.io/badge/Gmail-asemelgendi11%40gmail.com-red?style=flat&logo=gmail"></a> |
+  <a href="https://linkedin.com/in/asemelgendi"><img src="https://img.shields.io/badge/LinkedIn-Asem%20Elgendi-blue?style=flat&logo=linkedin"></a> |
+  <a href="https://flutterfix.com"><img src="https://img.shields.io/badge/Portfolio-FlutterFix.com-00c853?style=flat&logo=google-chrome"></a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
+</p>
