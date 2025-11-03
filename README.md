@@ -35,12 +35,14 @@ I focus on **Clean Architecture**, **SOLID principles**, and **state management*
 |-----------|--------------|
 | **Mobile Dev** | Flutter, Dart, Android, iOS |
 | **State Management** | Bloc, Provider, GetX |
+| **Programming Languages** | Dart, C++, C# |
 | **Databases** | Firebase, Firestore, SQLite, Hive |
 | **Networking** | RESTful APIs, Dio, WebSocket, JSON Serializable |
 | **Architecture** | Clean Architecture, SOLID, MVVM, MVC |
 | **Other Tools** | Firebase Auth, FCM, Google Maps, Deep Links, Localization, CI/CD, GitHub Actions |
 
 ---
+
 
 ### 🚀 Key Projects
 
